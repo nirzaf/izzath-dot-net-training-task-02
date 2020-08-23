@@ -1,0 +1,38 @@
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\ABC_Drive.exe.config
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\ABC_Drive.exe
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\ABC_Drive.pdb
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.dll
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.xml
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csprojAssemblyReference.cache
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Properties.Resources.resources
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csproj.GenerateResource.cache
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csproj.CoreCompileInputs.cache
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csproj.CopyComplete
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.exe
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.pdb
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Migrations.CreatDb.resources
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Driver.frmDriver.resources
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Rent.frmRent.resources
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Vehicle.frmVehicle.resources
+C:\Users\Izzath  Ali\source\repos\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Migrations.UpdateDb2.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\ABC_Drive.exe.config
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\ABC_Drive.exe
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\ABC_Drive.pdb
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.dll
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.SqlServer.dll
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.xml
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\bin\Debug\EntityFramework.SqlServer.xml
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csprojAssemblyReference.cache
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Driver.frmDriver.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Migrations.CreatDb.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Migrations.UpdateDb2.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Properties.Resources.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Rent.frmRent.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.Vehicle.frmVehicle.resources
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csproj.GenerateResource.cache
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csproj.CoreCompileInputs.cache
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.csproj.CopyComplete
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.exe
+F:\Quadrate\Quadrate-asp-dot-net-training\dot-net-training-task-02\RentCalculation\dot-net-training-task-02\ABC_Drive\ABC_Drive\obj\Debug\ABC_Drive.pdb
